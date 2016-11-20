@@ -16,7 +16,6 @@ import pry; pry()
 
 INSTALL
 =======
-
 ```
-$ curl https://raw.githubusercontent.com/Mic92/pry.py/master/pry.py > pry.py
+sudo -H pip install .
 ```
